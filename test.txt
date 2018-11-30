@@ -4,3 +4,5 @@ git is superStart
 very good !!!
 test commit after message !!!
 third writed
+welcome to Beijing !!!
+
