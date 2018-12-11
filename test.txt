@@ -7,3 +7,4 @@ third writed
 welcome to Beijing !!!
 I want go home !!!
 #testgit
+add filed to branch new-fixbug branch
